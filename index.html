@@ -533,7 +533,7 @@
             $(this).on("change", filter);
             filter();
 
-            setTimeout(()=> filter(), 1000);
+            setTimeout(()=> filter(), 1000); // little hack to avoid portfolio overlapping
 
           });
 
