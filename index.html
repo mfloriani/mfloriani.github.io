@@ -515,13 +515,11 @@
       $(function() {
           console.log( "ready!" );
 
-
           $(".isotope-wrapper").each(function() {
             var $isotope = $(".isotope-box", this);
             var $filterCheckboxes = $('input[type="radio"]', this);
 
-            var filter = function() {
-              
+            var filter = function() {              
               var type = $filterCheckboxes.filter(":checked").data("filter") || "*";
               console.log("filter() called", type);
               $isotope.isotope({ filter: type });
@@ -534,6 +532,9 @@
 
             $(this).on("change", filter);
             filter();
+
+            setTimeout(()=> filter(), 1000);
+
           });
 
         });
