@@ -226,7 +226,8 @@ html {
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
   /* background-color: #a43f49; */
-  background-color: #3D85C6;
+  /* background-color: #3D85C6; */
+  background-color: #494E5F;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
