@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Murilo Floriani</title>
-    <link>localhost/</link>
+    <link>https://mfloriani.github.io/</link>
     <description>Recent content on Murilo Floriani</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mfloriani.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
