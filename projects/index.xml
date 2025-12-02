@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Murilo Floriani</title>
+    <link>https://mfloriani.github.io/projects/</link>
+    <description>Recent content in Projects on Murilo Floriani</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mfloriani.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arcade Racing Game (UK Studio - Unannounced)</title>
+      <link>https://mfloriani.github.io/projects/arcade-racing/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mfloriani.github.io/projects/arcade-racing/</guid>
+      <description>&lt;h2 id=&#34;game-info&#34;&gt;Game Info&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;cover.png&#34; alt=&#34;&amp;ldquo;Concept&amp;rdquo;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a unannounced AAA arcade racing game made in Unreal Engine 5 for a major publisher.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-contributions&#34;&gt;My Contributions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Multiplayer and Online Systems - Responsible for bringing first iteration of the multiplayer online functionality to the project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Integrated Epic Online Services (EOS) across authentication, sessions, lobbies, and leaderboards.&lt;/li&gt;&#xA;&lt;li&gt;Debugged platform-specific EOS issues on PS5, including SDK configuration &amp;amp; session failures.&lt;/li&gt;&#xA;&lt;li&gt;Implemented CommonUser plugin flows borrowed from Lyra and adapted them for the project.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Multiplayer Game Flow - Implemented and iterated on:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reaper Actual (US Studio - Early Access)</title>
+      <link>https://mfloriani.github.io/projects/reaper-actual/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mfloriani.github.io/projects/reaper-actual/</guid>
+      <description>&lt;h2 id=&#34;game-info&#34;&gt;Game Info&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;cover.png&#34; alt=&#34;&amp;ldquo;ReaperActual&amp;rdquo;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Reaper Actual is an open-world persistent extraction shooter where hundreds of players engage in FPS combat against each other and 5 NPC Factions on the massive war-torn island of Marova.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FO1QnyoA3uQ&#34;&gt;Official Announcement Trailer&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://reaperactual.com/&#34;&gt;Reaper Actual Website&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://store.steampowered.com/app/2995670/Reaper_Actual/&#34;&gt;Steam Store Page&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://store.epicgames.com/pt-BR/p/reaper-actual-2aa9cc&#34;&gt;Epic Store Page&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://dps.gg/about&#34;&gt;Credits&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-contributions&#34;&gt;My Contributions&lt;/h2&gt;&#xA;&lt;p&gt;I was responsible for major improvements across the game’s weapon, combat, animation, and projectile systems, focusing on gameplay feel, reliability, and multiplayer correctness. My key contributions include:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shader Tool (MSc)</title>
+      <link>https://mfloriani.github.io/projects/shader-tool/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mfloriani.github.io/projects/shader-tool/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;cover.gif&#34; alt=&#34;Demo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a shader tool developed as final project for my Master degree in Computer Science for Game Development at the Hull University in the UK.&lt;/p&gt;&#xA;&lt;p&gt;I implemented a DirectX 12 renderer in C++ and used a Dear Imgui plugin to handle the node graph viewport.&lt;/p&gt;&#xA;&lt;p&gt;Using this tool, the user can run HLSL shaders and tweak the input params to visualize the result.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mfloriani/shader-tool&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Survival Game (Indie - In Development)</title>
+      <link>https://mfloriani.github.io/projects/survival-factory/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mfloriani.github.io/projects/survival-factory/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;cover.png&#34; alt=&#34;Prototype&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a indie survival game prototype made in Unreal Engine 5 and heavily inspired by &lt;a href=&#34;https://store.steampowered.com/app/252490/Rust/&#34;&gt;Rust&lt;/a&gt; and &lt;a href=&#34;https://store.steampowered.com/app/282070/This_War_of_Mine/&#34;&gt;This War of Mine&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/F5YYmUDHebw&#34;&gt;Prototype Video&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-contributions&#34;&gt;My Contributions&lt;/h2&gt;&#xA;&lt;p&gt;I developed several foundational systems for a survival-focused indie game in Unreal Engine 5, leveraging the Gameplay Ability System (GAS) and Data Assets to ensure scalability and designer-friendly workflows.&lt;/p&gt;&#xA;&lt;p&gt;My contributions include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Inventory System: Modular, data-driven item management with stacking, equipment support, and UI integration.&lt;/li&gt;&#xA;&lt;li&gt;Building System: Structure placement with real-time validation and snapping.&lt;/li&gt;&#xA;&lt;li&gt;Interaction Framework: Unified system that handles all player-world interactions.&lt;/li&gt;&#xA;&lt;li&gt;Harvesting Mechanics: Tools, resource nodes, and dynamic yield logic.&lt;/li&gt;&#xA;&lt;li&gt;Production System: Flexible production chains (e.g., campfires, forges, workstations) driven by gameplay tags and data assets.&lt;/li&gt;&#xA;&lt;li&gt;Crafting System: Blueprint-driven recipes with automated validation, queueing, and input/output handling.&lt;/li&gt;&#xA;&lt;li&gt;Survival Mechanics: Fully GAS-driven hunger, thirst, stamina, temperature, poisoning, and other status effects.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -6,6 +6,35 @@
     <description>Recent content in Tags on Murilo Floriani</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mfloriani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gamedev</title>
+      <link>https://mfloriani.github.io/tags/gamedev/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mfloriani.github.io/tags/gamedev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unreal-Engine</title>
+      <link>https://mfloriani.github.io/tags/unreal-engine/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mfloriani.github.io/tags/unreal-engine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Directx12</title>
+      <link>https://mfloriani.github.io/tags/directx12/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mfloriani.github.io/tags/directx12/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tool</title>
+      <link>https://mfloriani.github.io/tags/tool/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mfloriani.github.io/tags/tool/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

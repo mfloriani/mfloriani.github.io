@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Directx12 on Murilo Floriani</title>
+    <link>https://mfloriani.github.io/tags/directx12/</link>
+    <description>Recent content in Directx12 on Murilo Floriani</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mfloriani.github.io/tags/directx12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shader Tool (MSc)</title>
+      <link>https://mfloriani.github.io/projects/shader-tool/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mfloriani.github.io/projects/shader-tool/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;cover.gif&#34; alt=&#34;Demo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a shader tool developed as final project for my Master degree in Computer Science for Game Development at the Hull University in the UK.&lt;/p&gt;&#xA;&lt;p&gt;I implemented a DirectX 12 renderer in C++ and used a Dear Imgui plugin to handle the node graph viewport.&lt;/p&gt;&#xA;&lt;p&gt;Using this tool, the user can run HLSL shaders and tweak the input params to visualize the result.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mfloriani/shader-tool&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

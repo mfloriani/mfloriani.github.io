@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Directx on Murilo Floriani</title>
+    <link>http://localhost:1313/tags/directx/</link>
+    <description>Recent content in Directx on Murilo Floriani</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/directx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shader Tool</title>
+      <link>http://localhost:1313/projects/shader-tool/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/shader-tool/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;cover.gif&#34; alt=&#34;Demo&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
