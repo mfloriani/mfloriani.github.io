@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mfloriani.github.io/projects/arcade-racing/</loc>
+    <loc>https://mfloriani.github.io/tags/c&#43;&#43;/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mfloriani.github.io/tags/gamedev/</loc>
@@ -23,20 +23,23 @@
     <loc>https://mfloriani.github.io/tags/unreal-engine/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mfloriani.github.io/tags/directx12/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mfloriani.github.io/projects/shader-tool/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mfloriani.github.io/projects/survival-factory/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mfloriani.github.io/tags/tool/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mfloriani.github.io/bio/</loc>
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mfloriani.github.io/projects/survival-factory/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mfloriani.github.io/projects/arcade-racing/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mfloriani.github.io/tags/directx12/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mfloriani.github.io/projects/shader-tool/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mfloriani.github.io/tags/tool/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mfloriani.github.io/categories/</loc>
   </url>
